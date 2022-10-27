@@ -1,7 +1,47 @@
 [
 
-    
-
+    {
+        "header_name": "HTML",
+        "category_id": "01",
+        "price": "12$",
+        "image_url":"https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+        "details": ""
+    },
+    {
+        "header_name": "CSS",
+        "category_id": "02",
+        "price": "14$",
+        "image_url": "https://cdn-icons-png.flaticon.com/512/919/919826.png",
+        "details": ""
+    },
+    {
+        "header_name": "JAVASCRIPT",
+        "category_id": "03",
+        "price": "17$",
+        "image_url": "https://logosdownload.com/logo/javascript-logo-512.png",
+        "details": ""
+    },
+    {
+        "header_name": "REACT",
+        "category_id": "04",
+        "price": "10$",
+        "image_url": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+        "details": ""
+    },
+    {
+        "header_name": "PYTHON",
+        "category_id": "05",
+        "price": "17$",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png",
+        "details": ""
+    },
+    {
+        "header_name": "JQuery",
+        "category_id": "06",
+        "price": "18$",
+        "image_url": "https://www.codeforbeginner.com/wp-content/uploads/2017/02/jquery.png",
+        "details": ""
+    }
 
 
 ]

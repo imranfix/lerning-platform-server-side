@@ -4,6 +4,7 @@ const port = process.env.PORT || 5000;
 
 
 const couuses = require('./data/courses.json');
+const courseInfo = require('./data/courseInfo.json');
 
 
 
@@ -14,6 +15,11 @@ app.get('/', (req, res)=>{
 
 app.get('/programme-courses', (req, res) =>{
     res.send(couuses);
+})
+
+
+app.get('/programme-courseInfo', (req, res) =>{
+    res.send(courseInfo);
 })
 
 
