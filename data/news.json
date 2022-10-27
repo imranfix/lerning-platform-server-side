@@ -1,0 +1,55 @@
+[
+
+    {   
+        "_id": "0kdfjskf34987341",
+        "name": "HTML",
+        "price": "12$",
+        "ratings": "4.9",
+        "catagory_id": "01",
+        "image_url":"https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
+        "details": "HTML is the standard markup language for Web pagesWith. HTML you can create your own Website. HTML is easy to learn - You will enjoy it!"
+    },
+    {    "_id": "0fksdjf4938kjfj2",
+        "name": "CSS",
+        "price": "14$",
+        "ratings": "5.00",
+        "catagory_id": "02",
+        "image_url": "https://cdn-icons-png.flaticon.com/512/919/919826.png",
+        "details": "CSS is the language we use to style an HTML document. CSS describes how HTML elements should be displayed.This tutorial will teach you CSS from basic to advanced."
+    },
+    {    "_id": "030kdfkf34987341",
+        "name": "JAVASCRIPT",
+        "price": "17$",
+        "ratings": "4.4",
+        "catagory_id": "03",
+        "image_url": "https://vegibit.com/wp-content/uploads/2014/04/Javascript-JS.png",
+        "details": "JavaScript is the world's most popular programming language. JavaScript is the programming language of the Web. JavaScript is easy to learn. This tutorial will teach you JavaScript from basic to advanced."
+    },
+    {    "_id": "04fjskf34987341",
+        "name": "REACT",
+        "price": "10$",
+        "ratings": "4.9",
+        "catagory_id": "04",
+        "image_url": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png",
+        "details": "React is a JavaScript library for building user interfaces. React is used to build single-page applications. React allows us to create reusable UI components."
+    },
+    {    "_id": "05dfjskf34987341",
+        "name": "PYTHON",
+        "price": "17$",
+        "ratings": "4.7",
+        "catagory_id": "05",
+        "image_url": "https://www.stickersdevs.com.br/wp-content/uploads/2022/01/python-logo-adesivo-sticker-800x800.png",
+        "details": "Python is a popular programming language. Python can be used on a server to create web applications. You can learn more code this progrmme if you do this."
+    },
+    {
+        "_id": "06dfjskf34987341",
+        "name": "JQuery",
+        "price": "18$",
+        "ratings": "4.4",
+        "catagory_id": "06",
+        "image_url": "https://www.codeforbeginner.com/wp-content/uploads/2017/02/jquery.png",
+        "details": "jQuery is a JavaScript Library. jQuery greatly simplifies JavaScript programming. jQuery is easy to learn."
+    }
+
+
+]

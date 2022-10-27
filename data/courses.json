@@ -1,40 +1,45 @@
 [
 
     {
-        "course_id": "1",
-        "couuse-name": "HTML",
+        "id": "01",
+        "name": "HTML",
         "imgae": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw"
     },
     
     {
-        "course_id": "2",
-        "couuse-name": "CSS",
+        "id": "02",
+        "name": "CSS",
         "imgae": "https://cdn-icons-png.flaticon.com/512/919/919826.png"
     },
 
     {
-        "course_id": "3",
-        "couuse-name": "JAVASCRIPT",
-        "imgae": "https://logosdownload.com/logo/javascript-logo-512.png"
+        "id": "03",
+        "name": "JAVASCRIPT",
+        "imgae": "https://vegibit.com/wp-content/uploads/2014/04/Javascript-JS.png"
     },
 
     {
-        "course_id": "4",
-        "couuse-name": "REACT",
+        "id": "04",
+        "name": "REACT",
         "imgae": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"
     },
 
     {
-        "course_id": "5",
-        "couuse-name": "PYTHON",
-        "imgae": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png"
+        "id": "05",
+        "name": "PYTHON",
+        "imgae": "https://www.stickersdevs.com.br/wp-content/uploads/2022/01/python-logo-adesivo-sticker-800x800.png"
+
     },
 
     {
-        "course_id": "6",
-        "couuse-name": "jQuery",
+        "id": "06",
+        "name": "jQuery",
         "imgae": "https://www.codeforbeginner.com/wp-content/uploads/2017/02/jquery.png"
-    }
+    },
+    {
+        "id": "07",
+        "name": "Total Courses"
+      }
 
 
 
