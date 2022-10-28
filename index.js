@@ -17,7 +17,7 @@ app.get('/', (req, res)=>{
 });
 
 
-// data-1:
+// data-1:-
 app.get('/news-courses', (req, res) =>{
     res.send(courses);
 })
